@@ -1,0 +1,72 @@
+
+
+.complatedbutton{
+    margin-top: -20px;
+}
+
+.mappeddate{
+    margin-top: 20px;
+    margin-left: 250px;
+}
+
+.date{
+    margin-right: 300px;
+    margin-top:-330px
+}
+
+.textmapdiv{
+font-size: 20px;
+margin-right:10px;
+
+}
+
+.titlemapdiv{
+    font-size: 28px;
+}
+
+.mapdiv2{
+    border: 2px solid black;
+    width:400px;
+    margin-left: 710px;
+    word-wrap: break-word;
+    padding-bottom: 20px;
+    margin-top: 0px;
+}
+
+
+
+.addbutton{
+    background-color: transparent;
+    border: 2px solid purple;
+    padding: 10px 30px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left:220px;
+    margin-top:-60px;
+    font-size: 15px;
+}
+
+.inputcontainer{
+    margin-top:20px;
+    margin-left:150px;
+    border: 3px solid black;
+   width: 500px;
+   height: 550px;
+}
+
+
+.textinput{
+    width: 450px;
+    height: 60px;
+    margin-top: 30px;
+    font-size:16px
+    }
+
+.titleinput{
+width: 300px;
+height: 30px;
+margin-top: 30px;
+font-size:19px
+};
+
